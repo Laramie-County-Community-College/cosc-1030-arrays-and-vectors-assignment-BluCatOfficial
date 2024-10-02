@@ -6,7 +6,7 @@ using namespace std;
 
 int main() {
 
-vector<int> [12, 7, 9];
+std::vector<int> intvector = [12, 7, 9];
 
 
 
